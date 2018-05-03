@@ -1,8 +1,8 @@
 {
   "name": "redux-thunk",
   "description": "Redux thunk-like API for haxe-redux",
-  "version": "0.0.1",
-  "releasenote": "Initial release. (See CHANGELOG.md)",
+  "version": "0.0.2",
+  "releasenote": "Allow thunk with Void return",
   "url": "https://github.com/kLabz/haxe-redux-thunk",
   "license": "MIT",
   "tags": [
