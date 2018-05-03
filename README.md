@@ -1,3 +1,5 @@
+This feature has been merged in `haxe-redux`, and will be available starting next release (current version being `0.5.1`). It is already available using `haxelib git redux https://github.com/elsassph/haxe-redux`.
+
 # Haxe Redux Thunk
 
 Redux thunks (from [redux-thunk](https://github.com/gaearon/redux-thunk), more informations on thunks available [here](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)) are not really compatible with haxe-redux, since they work by dispatching functions instead of actions and catching them in a middleware.
